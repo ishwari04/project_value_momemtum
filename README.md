@@ -57,12 +57,12 @@ Renewal Probability Output
 ## 🖥️ Live Dashboard Interface
 
 ### 🔐 Landing Page
-
-![Landing Page](./assets/landing.png)
+<img width="1864" height="901" alt="Screenshot 2025-12-03 234648" src="https://github.com/user-attachments/assets/ccbe597c-7e87-4a39-8dd8-aea4df6fd2a0" />
 
 ### 📊 Dashboard Overview
 
-![Dashboard Overview](./assets/dashboard_overview.png)
+<img width="1900" height="860" alt="Screenshot 2025-12-03 234726" src="https://github.com/user-attachments/assets/4e5b0f88-f325-4efd-b5d2-f0c9f5358eb1" />
+
 
 > Add your actual screenshot filenames inside `/assets/` folder.
 
